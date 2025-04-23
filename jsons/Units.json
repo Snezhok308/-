@@ -8,7 +8,7 @@
   "strength": 150,                     
   "rangedStrength": 150,        
   "range": 7,                         
-  "cost": 180,                     
+  "cost": 200,                     
   "productionTurns": 18, 
   "requiresTech": "lasers",            
   "attackSound": "tankshot",         
