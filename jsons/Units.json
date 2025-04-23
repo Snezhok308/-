@@ -20,7 +20,7 @@
   "uniques": ["+7 клетки обзора","Может атаковать как в ближнем, так и в дальнем бою за один ход"],
   "promotions": [],
   "replaces": null,
-  "civilizationTypes": [],          
+  "civilizationTypes": ["308XmE2],          
   "icon": "white_tiger_icon.png",      // Иконка
    "attackAnimation": "TANK_ATTACK",       // Анимация атаки
   "rangedAttackAnimation": "ROCKET_ATTACK",
