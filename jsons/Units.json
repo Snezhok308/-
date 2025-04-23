@@ -3,7 +3,7 @@
   "id": "white_tiger_tank_3",        
   "name": "Белый Тигр 3",            
   "description": "Современный танк с мощной пушкой и ракетной установкой"
-  "unitType": "Mobile",
+  "unitType": "Armor",
   "movement": 3,                     
   "strength": 50,                     
   "rangedStrength": 45,        
